@@ -1,8 +1,8 @@
-# Chatbot UI
+# OmniChat-AI
 
-Chatbot UI is an open-source AI chat application designed to be user-friendly and accessible for everyone.
+OmniChat-AI is an open-source AI chat application designed to be user-friendly and accessible for everyone.
 
-![Chatbot UI](./public/readme/screenshot.png)
+![OmniChat-AI](./public/readme/screenshot.png)
 
 ## Demo
 
@@ -16,7 +16,7 @@ I'm actively working on significant improvements based on your feedback, includi
 
 ## Official Hosted Version
 
-Don't want to host your own instance? Try the official hosted version of Chatbot UI [here](https://chatbotui.com).
+Don't want to host your own instance? Try the official hosted version of OmniChat-AI [here](https://chatbotui.com).
 
 ## Issues
 
@@ -28,11 +28,11 @@ The "Discussions" tab is a great place to ask questions, share ideas, or seek he
 
 ## Legacy Code
 
-Chatbot UI recently reached version 2.0. If you need to access the old version (1.0), visit the `legacy` branch.
+OmniChat-AI recently reached version 2.0. If you need to access the old version (1.0), visit the `legacy` branch.
 
 ## Updating
 
-To update your local Chatbot UI instance, run:
+To update your local OmniChat-AI instance, run:
 
 ```bash
 npm run update
@@ -46,7 +46,7 @@ npm run db-push
 
 ## Local Quickstart
 
-Set up Chatbot UI locally by following these steps. You can also watch the full video guide [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
+Set up OmniChat-AI locally by following these steps. You can also watch the full video guide [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
 
 ### 1. Clone the repository
 
@@ -103,7 +103,7 @@ Follow the instructions [here](https://github.com/jmorganca/ollama#macos).
 
 ### 6. Run the app
 
-Start your local Chatbot UI instance:
+Start your local OmniChat-AI instance:
 
 ```bash
 npm run chat
@@ -113,7 +113,7 @@ Open your browser at [http://localhost:3000](http://localhost:3000). The backend
 
 ## Hosted Quickstart
 
-Follow these instructions to deploy your Chatbot UI instance to the cloud.
+Follow these instructions to deploy your OmniChat-AI instance to the cloud.
 
 ### 1. Local setup first
 
@@ -135,9 +135,9 @@ Complete the Local Quickstart steps (1-4) above. Ensure you create a separate re
 ### 3. Set up frontend with Vercel
 
 - **Create a project:** [Vercel](https://vercel.com/)
-- **Import GitHub repository:** Link your hosted Chatbot UI repo.
+- **Import GitHub repository:** Link your hosted OmniChat-AI repo.
 - **Configure environment variables:** Add your Supabase details and API keys in the Vercel dashboard settings.
-- **Deploy:** Start deployment and access your hosted Chatbot UI via the provided Vercel URL.
+- **Deploy:** Start deployment and access your hosted OmniChat-AI via the provided Vercel URL.
 
 For a detailed list of all required variables, refer to `.env.local.example`.
 
