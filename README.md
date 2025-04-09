@@ -18,10 +18,6 @@ I'm actively working on significant improvements based on your feedback, includi
 
 Don't want to host your own instance? Try the official hosted version of Chatbot UI [here](https://chatbotui.com).
 
-## Sponsor
-
-If Chatbot UI helps you, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) my open-source efforts.
-
 ## Issues
 
 Please limit "Issues" to problems directly related to the codebase. For general help, setup questions, or feature requests, use the "Discussions" tab instead. Unrelated issues will be closed promptly.
